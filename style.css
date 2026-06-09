@@ -1,0 +1,25 @@
+body{
+    font-family: verdana;
+    text-align: center;
+
+}
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: black;
+    background-color:rgb(216, 146, 15);
+
+}
+.myLabelRed{
+    font-size: 3em;
+    color:rgb(99, 2, 2)
+}
+.myLabelGreen{
+    font-size: 3em;
+    color: rgb(10, 105, 10);
+}
+.myLabelBlue{
+    font-size: 3em;
+    color:rgb(33, 33, 187);
+}
